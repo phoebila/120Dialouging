@@ -11,6 +11,11 @@
 			"newSpeaker":"true"
 		},
 		{
+			"speaker": "naruto",
+			"dialog": "definitely not prgeante!",
+			"newSpeaker":"true"
+		},
+		{
 			"speaker" : "homer",
 			"dialog" : "Many cities did he visit, and many were the nations with whose manners and customs he was acquainted.",
 			"newSpeaker": "true"
@@ -48,8 +53,14 @@
 			"newSpeaker" : "true"
 		},
 		{	
+			"speaker" : "naruto",
+			"dialog" : "Father, son of Sonic",
+			"newSpeaker" : "true"
+		},
+		{	
 			"speaker" : "minerva",
-			"dialog" : "It is for Ulysses that my heart bleeds, when I think of his sufferings in that lonely sea-girt island, far away, poor man, from all his friends."
+			"dialog" : "It is for Ulysses that my heart bleeds, when I think of his sufferings in that lonely sea-girt island, far away, poor man, from all his friends.",
+			"newSpeaker": "true"
 		},
 		{	
 			"speaker" : "jove",

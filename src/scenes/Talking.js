@@ -51,6 +51,7 @@ class Talking extends Phaser.Scene {
         // ready the character dialog images offscreen
         this.homer = this.add.sprite(this.OFFSCREEN_X, this.DBOX_Y+8, 'homer').setOrigin(0, 1)
         this.minerva = this.add.sprite(this.OFFSCREEN_X, this.DBOX_Y+8, 'minerva').setOrigin(0, 1)
+        this.naruto = this.add.sprite(this.OFFSCREEN_X, this.DBOX_Y+8, 'naruto').setOrigin(0, 1)
         this.neptune = this.add.sprite(this.OFFSCREEN_X, this.DBOX_Y+8, 'neptune').setOrigin(0, 1)
         this.jove = this.add.sprite(this.OFFSCREEN_X, this.DBOX_Y+8, 'jove').setOrigin(0, 1)
 
